@@ -1,3 +1,4 @@
+# author : JiSoo Kim
 # python & pycharm install respectively
 # create virtual environment via 'venv' (64 => C:\VirtualEnv\py381_64 & 32 => C:\VirtualEnv\py380_32)
 # pip install -r requirements.txt in "py381_64"
