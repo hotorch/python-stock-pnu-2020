@@ -1,4 +1,7 @@
 """
+## Ref 설명 : Dongwon Park
+https://www.kmi.re.kr/web/board/download.do?rbsIdx=280&idx=18&fidx=1
+
 ## Author : Jajoon Koo
 6.6. 삼중창 매매 시스템
 ​
